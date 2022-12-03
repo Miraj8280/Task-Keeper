@@ -1,0 +1,18 @@
+@import "../mixins";
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300&family=Lora:ital,wght@1,400;1,600&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Space+Mono&family=Varela+Round&display=swap");
+.title {
+  display: inline-block;
+  font-family: "Varela Round", sans-serif;
+  width: 100%;
+  font-size: 4rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+  color: var(--primaryPurple);
+  @include smallDeviceSize {
+    font-size: 3rem;
+  }
+}
