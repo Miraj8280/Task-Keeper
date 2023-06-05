@@ -22,6 +22,8 @@ The Task Keeper is a responsive React application that helps you track your dail
 - Filtering: Use the filter functionality to view tasks based on Completed/Incomplete/All.
 - Refresh Button: Clicking the refresh button does not cause any changes to the data.
 
+### [Live preview](https://my-todo-project-zeta.vercel.app/)
+
 ## Technologies Used
 
 - React
