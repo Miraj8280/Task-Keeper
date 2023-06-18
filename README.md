@@ -1,6 +1,6 @@
 # Task Keeper
 
-The Task Keeper is a responsive React application that helps you track your daily tasks. It provides features such as task editing, deletion, sorting by time and date, filtering, and a refresh button that does not cause any changes to the data. The app utilizes React Hooks, Redux, Hot Toast, Icons, and Framer Motion to create an attractive and interactive user interface.
+The Task Keeper is a responsive React application that helps you track your daily tasks. It provides features such as task editing, deletion, sorting by time and date, filtering, and after refreshing the page it does not cause any changes to the data. The app utilizes React Hooks, Redux, Hot Toast, Icons, and Framer Motion to create an attractive and interactive user interface.
 
 ![Task Keeper](banner.jpg)
 
